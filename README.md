@@ -1,2 +1,2 @@
 # react-exercises
-my journey as I learn React.js
+Sharing my journey as I learn React.js
